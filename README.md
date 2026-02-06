@@ -200,10 +200,6 @@ This structure consistently earns **full marks**.
 
 # 🔥 TOPPER MODE ADD-ON (Distinction Level)
 
-This section separates **high scorers from average answers**.
-
----
-
 ## 13. Examiner Keywords (WRITE THESE WORDS)
 
 Examiners award marks when they see these words:
