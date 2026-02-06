@@ -198,17 +198,6 @@ This structure consistently earns **full marks**.
 
 ---
 
-### You are now exam-ready.
-
-If you want next upgrades:
-
-* 🔥 PYQ-based answers
-* 🔥 Numericals with full solutions
-* 🔥 Economics-only math pack
-* 🔥 Ultra-short 1-day revision sheet
-
----
-
 # 🔥 TOPPER MODE ADD-ON (Distinction Level)
 
 This section separates **high scorers from average answers**.
@@ -343,20 +332,10 @@ This line is pure gold. ✨
 
 ### 🚀 You are now in TOP 5% territory.
 
-If you want the **ULTIMATE level** next:
-
-* PYQ answers written exactly like toppers
-* Spotting questions (what WILL come)
-* 1-page ultra-compressed cheat sheet
-* Viva-ready explanations
-
 ---
 
 # ⚡ ULTRA-TOPPER MODE (RANKER ENERGY)
 
-This section is written for **rank holders**. If you reproduce this style in the exam, you signal *mastery*, not memorisation.
-
----
 
 ## 21. Ranker-Level Definitions (Write Like This)
 
