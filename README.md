@@ -1,9 +1,5 @@
 # Math & Notation Foundations
 
-These notes cover the **core mathematical concepts and notation** commonly used across economics, statistics, data analysis, and introductory AI/ML. They focus on *understanding symbols*, *reading equations*, and *building intuition*.
-
----
-
 ## 1. Numbers & Sets
 
 ### 1.1 Types of Numbers
@@ -27,7 +23,7 @@ Common symbols:
 * ⊂ : subset
 * ∅ : empty set
 
----
+
 
 ## 2. Logic & Statements
 
@@ -50,7 +46,7 @@ Examples:
 
 Used heavily in **proofs, economics assumptions, and algorithms**.
 
----
+
 
 ## 3. Algebra Basics
 
@@ -73,7 +69,7 @@ Here:
 * **Equation**: True only for certain values (x + 2 = 5)
 * **Identity**: True for all values ((x + 1)² = x² + 2x + 1)
 
----
+
 
 ## 4. Functions
 
@@ -100,7 +96,7 @@ Example:
 * f(x) = √x
 * Domain: x ≥ 0
 
----
+
 
 ## 5. Graphs & Coordinate System
 
@@ -124,7 +120,7 @@ Used in:
 * Demand & supply
 * Growth trends
 
----
+
 
 ## 6. Exponents & Logarithms
 
@@ -156,7 +152,7 @@ Used in:
 * Elasticity
 * Econometrics
 
----
+
 
 ## 7. Summation & Series
 
@@ -177,7 +173,7 @@ Used in:
 
 * Mean: (Σxᵢ) / n
 
----
+
 
 ## 8. Basic Calculus Concepts
 
@@ -219,7 +215,7 @@ Used in:
 * Total output
 * Consumer surplus
 
----
+
 
 ## 9. Vectors & Matrices (Intro)
 
@@ -242,7 +238,7 @@ Used in:
 * Machine learning
 * Optimization
 
----
+
 
 ## 10. Common Mathematical Symbols
 
@@ -256,7 +252,7 @@ Used in:
 | ∝      | proportional to            |
 | ⇒      | implies                    |
 
----
+
 
 ## 11. How to Read Math Like English
 
@@ -271,7 +267,7 @@ Read as:
 Key tip:
 **Don’t panic at symbols — translate them into words.**
 
----
+
 
 ## 12. Why This Foundation Matters
 
@@ -282,21 +278,10 @@ These tools help you:
 * Analyze data confidently
 * Avoid rote memorization
 
----
 
-If you want, this can be followed by:
 
-* 📊 Math for Economics
-* 📈 Statistics & Probability Foundations
-* 🤖 Math for AI & Data Science
-
----
 
 # EXAM-READY NOTES (Quick Revision)
-
-This section is **highly condensed**, written exactly how exam answers are expected.
-
----
 
 ## 1. Sets & Number System (2–3 marks)
 
@@ -309,7 +294,7 @@ Symbols:
 
 * ∈ (belongs to), ⊂ (subset), ∅ (empty set)
 
----
+
 
 ## 2. Variables, Constants & Equations (2 marks)
 
@@ -322,7 +307,7 @@ Identity: true for all values
 Example:
 (x + 1)² = x² + 2x + 1 (identity)
 
----
+
 
 ## 3. Functions (3–5 marks)
 
@@ -337,7 +322,7 @@ Key terms:
 * Domain → set of all possible inputs
 * Range → set of all possible outputs
 
----
+
 
 ## 4. Graphs & Intercepts (2–3 marks)
 
@@ -351,7 +336,7 @@ Intercepts:
 
 Used in demand–supply, cost curves, growth trends.
 
----
+
 
 ## 5. Exponents & Logarithms (3 marks)
 
@@ -367,7 +352,7 @@ Logarithms:
 
 Applications: growth rates, elasticity, index numbers.
 
----
+
 
 ## 6. Summation Notation (Σ) (3–4 marks)
 
@@ -382,7 +367,7 @@ Used in:
 * Total cost
 * Mean: Σx / n
 
----
+
 
 ## 7. Limits, Derivatives & Integrals (5 marks)
 
@@ -415,7 +400,7 @@ Notation:
 
 Used for total output, surplus.
 
----
+
 
 ## 8. Vectors & Matrices (Intro – 2–3 marks)
 
@@ -430,7 +415,7 @@ Matrix:
 
 Used in econometrics, linear models, AI.
 
----
+
 
 ## 9. Important Symbols (Very Exam-Friendly)
 
@@ -445,7 +430,6 @@ Used in econometrics, linear models, AI.
 Example:
 ∂Y/∂L > 0 → Output increases with labor.
 
----
 
 ## 10. How to Write Answers (Scoring Tip)
 
@@ -455,11 +439,4 @@ Example:
 
 This structure almost always fetches full marks.
 
----
 
-### If you want next:
-
-* 📌 Previous-year-question answers
-* 📌 Numericals with step-by-step solutions
-* 📌 Economics-only math notes
-* 📌 One-page formula sheet for last-day revision
